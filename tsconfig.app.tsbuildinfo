@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/config.ts","./src/main.tsx","./src/vite-env.d.ts","./src/audio/rainaudio.ts","./src/components/footer.tsx","./src/components/missmebutton.tsx","./src/components/musicplayer.tsx","./src/components/playlisttitle.tsx","./src/components/rainmode.tsx"],"version":"5.6.3"}
