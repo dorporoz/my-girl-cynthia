@@ -281,3 +281,14 @@ button{font:inherit}
  opacity:0!important;
  pointer-events:none!important
 }
+
+/* Shuffle button active state */
+.shuffle-btn.active {
+  color: #2dd4bf;
+  background: #2dd4bf22;
+  box-shadow: 0 0 12px #2dd4bf44;
+}
+
+.shuffle-btn.active:hover {
+  background: #2dd4bf33;
+}
